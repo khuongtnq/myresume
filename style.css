@@ -137,6 +137,10 @@ h3.heading {
   font-size: 1.1rem;
 }
 
+.feature ul {
+  text-align: initial;
+}
+
 .fixed {
   background-image: url(img/apple.png);
 }
