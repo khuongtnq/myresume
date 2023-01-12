@@ -239,6 +239,7 @@ hr.socket{
     display: block;
     margin: 0 auto;
   }
+  /* change style nav */
   .navbar-nav{
     display: flex;
     flex-direction: row;
