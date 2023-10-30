@@ -71,3 +71,6 @@ margin-right: 0px!important;
           transform: translateZ(0);
   will-change: transform;
 }
+.m-left-450 {
+  margin-left: 520px;
+}
